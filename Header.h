@@ -12,4 +12,6 @@
 #import "AFHTTPSessionManager.h"
 #import "AFNetworking.h"
 #import "JSONModelLib.h"
+#import "UIImageView+WebCache.h"//图片异步加载的类别
+#import "UIButton+WebCache.h"//按钮异步加载网络图片的头文件
 #endif /* Header_h */

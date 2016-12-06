@@ -10,6 +10,7 @@ import UIKit
 
 class MessageCell: UITableViewCell {
     @IBOutlet weak var titleL: UILabel!
+    @IBOutlet weak var backview: UIView!
     @IBOutlet weak var contentL: UILabel!
     @IBOutlet weak var redactL: UILabel!
     @IBOutlet weak var gameicon: UIImageView!
@@ -17,7 +18,8 @@ class MessageCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        self.backview.layer.cornerRadius = 5
+         self.backview.clipsToBounds = true
     }
 
     override func setSelected(selected: Bool, animated: Bool) {
