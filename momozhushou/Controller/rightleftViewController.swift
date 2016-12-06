@@ -12,7 +12,7 @@ class rightleftViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+//http://mobile.itmo.com/game/list_133?type=%E6%9C%80%E6%96%B0&pageOrder=create&pageSize=10&pageIndex=1
         // Do any additional setup after loading the view.
     }
 //223
