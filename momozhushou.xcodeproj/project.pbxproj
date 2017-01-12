@@ -74,8 +74,11 @@
 		BC6946171E039CD2004F9C4F /* 热门.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6946141E039CD2004F9C4F /* 热门.png */; };
 		BC6FC4571E00F3D000929543 /* tagModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC6FC4561E00F3D000929543 /* tagModel.swift */; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		BC6FC45A1E013BBB00929543 /* A.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6FC4581E013BBB00929543 /* A.png */; };
 		BC6FC45B1E013BBB00929543 /* G.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6FC4591E013BBB00929543 /* G.png */; };
+=======
+>>>>>>> left完毕
 =======
 >>>>>>> left完毕
 		BC774AE01E08DAA200E2B85C /* AselectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC774ADE1E08DAA200E2B85C /* AselectViewController.swift */; };
@@ -87,6 +90,11 @@
 		BC774AEC1E08E09800E2B85C /* labelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC774AEA1E08E09800E2B85C /* labelCell.swift */; };
 		BC774AED1E08E09800E2B85C /* labelCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC774AEB1E08E09800E2B85C /* labelCell.xib */; };
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		BC77FDE31E26395F005223BA /* A.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE11E26395F005223BA /* A.png */; };
+		BC77FDE41E26395F005223BA /* G.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE21E26395F005223BA /* G.png */; };
+>>>>>>> left完毕
 =======
 		BC77FDE31E26395F005223BA /* A.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE11E26395F005223BA /* A.png */; };
 		BC77FDE41E26395F005223BA /* G.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE21E26395F005223BA /* G.png */; };
@@ -236,8 +244,11 @@
 		BC6946141E039CD2004F9C4F /* 热门.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "热门.png"; path = "../../../../Downloads/热门.png"; sourceTree = "<group>"; };
 		BC6FC4561E00F3D000929543 /* tagModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tagModel.swift; sourceTree = "<group>"; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		BC6FC4581E013BBB00929543 /* A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = A.png; path = ../../../../Downloads/A.png; sourceTree = "<group>"; };
 		BC6FC4591E013BBB00929543 /* G.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = G.png; path = ../../../../Downloads/G.png; sourceTree = "<group>"; };
+=======
+>>>>>>> left完毕
 =======
 >>>>>>> left完毕
 		BC774ADE1E08DAA200E2B85C /* AselectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AselectViewController.swift; sourceTree = "<group>"; };
@@ -249,6 +260,11 @@
 		BC774AEA1E08E09800E2B85C /* labelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = labelCell.swift; sourceTree = "<group>"; };
 		BC774AEB1E08E09800E2B85C /* labelCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = labelCell.xib; sourceTree = "<group>"; };
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		BC77FDE11E26395F005223BA /* A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = A.png; path = momozhushou/lib/A.png; sourceTree = SOURCE_ROOT; };
+		BC77FDE21E26395F005223BA /* G.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = G.png; path = momozhushou/lib/G.png; sourceTree = SOURCE_ROOT; };
+>>>>>>> left完毕
 =======
 		BC77FDE11E26395F005223BA /* A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = A.png; path = momozhushou/lib/A.png; sourceTree = SOURCE_ROOT; };
 		BC77FDE21E26395F005223BA /* G.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = G.png; path = momozhushou/lib/G.png; sourceTree = SOURCE_ROOT; };
@@ -402,9 +418,15 @@
 				BC69460C1E038CF2004F9C4F /* ranking.png */,
 				BC69460D1E038CF2004F9C4F /* search.png */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				BC8522121E029C9000E43CFD /* LKBubble */,
 				BC6FC4581E013BBB00929543 /* A.png */,
 				BC6FC4591E013BBB00929543 /* G.png */,
+=======
+				BC77FDE11E26395F005223BA /* A.png */,
+				BC77FDE21E26395F005223BA /* G.png */,
+				BC8522121E029C9000E43CFD /* LKBubble */,
+>>>>>>> left完毕
 =======
 				BC77FDE11E26395F005223BA /* A.png */,
 				BC77FDE21E26395F005223BA /* G.png */,
@@ -801,10 +823,15 @@
 				BCA46A2D1DF7BD3E000C0014 /* AnimateViewController.xib in Resources */,
 				BC6946161E039CD2004F9C4F /* 历史.png in Resources */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				BC6FC45A1E013BBB00929543 /* A.png in Resources */,
 				BC6857451DFA5702000A359D /* animateCell.xib in Resources */,
 				BC6946111E038CF2004F9C4F /* search.png in Resources */,
 				BC6FC45B1E013BBB00929543 /* G.png in Resources */,
+=======
+				BC6857451DFA5702000A359D /* animateCell.xib in Resources */,
+				BC6946111E038CF2004F9C4F /* search.png in Resources */,
+>>>>>>> left完毕
 =======
 				BC6857451DFA5702000A359D /* animateCell.xib in Resources */,
 				BC6946111E038CF2004F9C4F /* search.png in Resources */,
@@ -829,7 +856,13 @@
 				BCBCAA811E0B852F00127CB3 /* nav_back_white.png in Resources */,
 				BC14F5951DFFD8A400C4910C /* MJRefresh.bundle in Resources */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				BC062AF11DF57CC200B6F052 /* Main.storyboard in Resources */,
+=======
+				BC77FDE41E26395F005223BA /* G.png in Resources */,
+				BC062AF11DF57CC200B6F052 /* Main.storyboard in Resources */,
+				BC77FDE31E26395F005223BA /* A.png in Resources */,
+>>>>>>> left完毕
 =======
 				BC77FDE41E26395F005223BA /* G.png in Resources */,
 				BC062AF11DF57CC200B6F052 /* Main.storyboard in Resources */,

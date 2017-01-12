@@ -18,7 +18,11 @@
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>1.21</string>
+=======
+	<string>1.23</string>
+>>>>>>> left完毕
 =======
 	<string>1.23</string>
 >>>>>>> left完毕
@@ -33,8 +37,11 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
+=======
+>>>>>>> left完毕
 =======
 >>>>>>> left完毕
 	</dict>

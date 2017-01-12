@@ -25,6 +25,10 @@ class leftViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
         createT()
         creatData()
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        self.title="游戏热点"
+>>>>>>> left完毕
 =======
         self.title="游戏热点"
 >>>>>>> left完毕
