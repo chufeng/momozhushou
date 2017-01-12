@@ -328,7 +328,11 @@
             startingLineNumber = "114"
             endingLineNumber = "114"
             landmarkName = "leftViewController"
+<<<<<<< HEAD
             landmarkType = "4">
+=======
+            landmarkType = "3">
+>>>>>>> left完毕
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

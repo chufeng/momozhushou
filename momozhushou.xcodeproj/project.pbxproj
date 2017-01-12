@@ -73,8 +73,11 @@
 		BC6946161E039CD2004F9C4F /* 历史.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6946131E039CD2004F9C4F /* 历史.png */; };
 		BC6946171E039CD2004F9C4F /* 热门.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6946141E039CD2004F9C4F /* 热门.png */; };
 		BC6FC4571E00F3D000929543 /* tagModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC6FC4561E00F3D000929543 /* tagModel.swift */; };
+<<<<<<< HEAD
 		BC6FC45A1E013BBB00929543 /* A.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6FC4581E013BBB00929543 /* A.png */; };
 		BC6FC45B1E013BBB00929543 /* G.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6FC4591E013BBB00929543 /* G.png */; };
+=======
+>>>>>>> left完毕
 		BC774AE01E08DAA200E2B85C /* AselectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC774ADE1E08DAA200E2B85C /* AselectViewController.swift */; };
 		BC774AE11E08DAA200E2B85C /* AselectViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC774ADF1E08DAA200E2B85C /* AselectViewController.xib */; };
 		BC774AE41E08DFD000E2B85C /* hotAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC774AE21E08DFD000E2B85C /* hotAnimationViewController.swift */; };
@@ -83,6 +86,11 @@
 		BC774AE91E08E08000E2B85C /* labelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC774AE71E08E08000E2B85C /* labelViewController.xib */; };
 		BC774AEC1E08E09800E2B85C /* labelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC774AEA1E08E09800E2B85C /* labelCell.swift */; };
 		BC774AED1E08E09800E2B85C /* labelCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC774AEB1E08E09800E2B85C /* labelCell.xib */; };
+<<<<<<< HEAD
+=======
+		BC77FDE31E26395F005223BA /* A.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE11E26395F005223BA /* A.png */; };
+		BC77FDE41E26395F005223BA /* G.png in Resources */ = {isa = PBXBuildFile; fileRef = BC77FDE21E26395F005223BA /* G.png */; };
+>>>>>>> left完毕
 		BC8176D71DF8ECC7008ABF61 /* TTCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8176D61DF8ECC7008ABF61 /* TTCollectionView.m */; };
 		BC8176DA1DF8F128008ABF61 /* UIImageView+SMImg.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8176D91DF8F128008ABF61 /* UIImageView+SMImg.m */; };
 		BC8176DD1DF8F145008ABF61 /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = BC8176DC1DF8F145008ABF61 /* UIViewExt.m */; };
@@ -227,8 +235,11 @@
 		BC6946131E039CD2004F9C4F /* 历史.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "历史.png"; path = "../../../../Downloads/历史.png"; sourceTree = "<group>"; };
 		BC6946141E039CD2004F9C4F /* 热门.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "热门.png"; path = "../../../../Downloads/热门.png"; sourceTree = "<group>"; };
 		BC6FC4561E00F3D000929543 /* tagModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tagModel.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		BC6FC4581E013BBB00929543 /* A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = A.png; path = ../../../../Downloads/A.png; sourceTree = "<group>"; };
 		BC6FC4591E013BBB00929543 /* G.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = G.png; path = ../../../../Downloads/G.png; sourceTree = "<group>"; };
+=======
+>>>>>>> left完毕
 		BC774ADE1E08DAA200E2B85C /* AselectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AselectViewController.swift; sourceTree = "<group>"; };
 		BC774ADF1E08DAA200E2B85C /* AselectViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AselectViewController.xib; sourceTree = "<group>"; };
 		BC774AE21E08DFD000E2B85C /* hotAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hotAnimationViewController.swift; sourceTree = "<group>"; };
@@ -237,6 +248,11 @@
 		BC774AE71E08E08000E2B85C /* labelViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = labelViewController.xib; sourceTree = "<group>"; };
 		BC774AEA1E08E09800E2B85C /* labelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = labelCell.swift; sourceTree = "<group>"; };
 		BC774AEB1E08E09800E2B85C /* labelCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = labelCell.xib; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		BC77FDE11E26395F005223BA /* A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = A.png; path = momozhushou/lib/A.png; sourceTree = SOURCE_ROOT; };
+		BC77FDE21E26395F005223BA /* G.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = G.png; path = momozhushou/lib/G.png; sourceTree = SOURCE_ROOT; };
+>>>>>>> left完毕
 		BC8176D51DF8ECC7008ABF61 /* TTCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTCollectionView.h; sourceTree = "<group>"; };
 		BC8176D61DF8ECC7008ABF61 /* TTCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTCollectionView.m; sourceTree = "<group>"; };
 		BC8176D81DF8F128008ABF61 /* UIImageView+SMImg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+SMImg.h"; sourceTree = "<group>"; };
@@ -385,9 +401,15 @@
 				BC69460B1E038CF2004F9C4F /* random.png */,
 				BC69460C1E038CF2004F9C4F /* ranking.png */,
 				BC69460D1E038CF2004F9C4F /* search.png */,
+<<<<<<< HEAD
 				BC8522121E029C9000E43CFD /* LKBubble */,
 				BC6FC4581E013BBB00929543 /* A.png */,
 				BC6FC4591E013BBB00929543 /* G.png */,
+=======
+				BC77FDE11E26395F005223BA /* A.png */,
+				BC77FDE21E26395F005223BA /* G.png */,
+				BC8522121E029C9000E43CFD /* LKBubble */,
+>>>>>>> left完毕
 				BC14F59C1DFFF83500C4910C /* MBProgressHUD */,
 				BC14F55A1DFFD8A400C4910C /* MJRefresh */,
 				BC8176D41DF8ECC7008ABF61 /* TTCollectionView */,
@@ -778,10 +800,15 @@
 			files = (
 				BCA46A2D1DF7BD3E000C0014 /* AnimateViewController.xib in Resources */,
 				BC6946161E039CD2004F9C4F /* 历史.png in Resources */,
+<<<<<<< HEAD
 				BC6FC45A1E013BBB00929543 /* A.png in Resources */,
 				BC6857451DFA5702000A359D /* animateCell.xib in Resources */,
 				BC6946111E038CF2004F9C4F /* search.png in Resources */,
 				BC6FC45B1E013BBB00929543 /* G.png in Resources */,
+=======
+				BC6857451DFA5702000A359D /* animateCell.xib in Resources */,
+				BC6946111E038CF2004F9C4F /* search.png in Resources */,
+>>>>>>> left完毕
 				BC774AE91E08E08000E2B85C /* labelViewController.xib in Resources */,
 				BC5440E31DF842F1002AC105 /* MessageCell.xib in Resources */,
 				BCBCAA831E0C068200127CB3 /* icon.png in Resources */,
@@ -801,7 +828,13 @@
 				BC5440DC1DF842F1002AC105 /* BaseViewController.xib in Resources */,
 				BCBCAA811E0B852F00127CB3 /* nav_back_white.png in Resources */,
 				BC14F5951DFFD8A400C4910C /* MJRefresh.bundle in Resources */,
+<<<<<<< HEAD
 				BC062AF11DF57CC200B6F052 /* Main.storyboard in Resources */,
+=======
+				BC77FDE41E26395F005223BA /* G.png in Resources */,
+				BC062AF11DF57CC200B6F052 /* Main.storyboard in Resources */,
+				BC77FDE31E26395F005223BA /* A.png in Resources */,
+>>>>>>> left完毕
 				BC69460F1E038CF2004F9C4F /* random.png in Resources */,
 				BC774AE51E08DFD000E2B85C /* hotAnimationViewController.xib in Resources */,
 			);

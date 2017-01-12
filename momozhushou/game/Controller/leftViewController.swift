@@ -24,6 +24,10 @@ class leftViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
         self.navigationItem.backBarButtonItem=UIBarButtonItem.init(title: "返回", style: .done, target: nil, action: nil)
         createT()
         creatData()
+<<<<<<< HEAD
+=======
+        self.title="游戏热点"
+>>>>>>> left完毕
         self.automaticallyAdjustsScrollViewInsets=false
         self.navigationController?.navigationBar.alpha=0.6
         
